@@ -1,1 +1,2 @@
 This is 2nd fileB
+Changed some contents
